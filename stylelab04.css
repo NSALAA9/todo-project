@@ -1,0 +1,38 @@
+header img{
+    height:60px;
+    width: 60px;
+    margin-bottom: 100;
+}
+header{
+    align-items: center;
+    background-color:#C0DBEA;
+    margin-bottom: 75px;
+}
+
+.navItem {
+  float: right;
+    text-decoration: none;
+    
+    width:50px;
+    padding:15px; 
+  }
+  footer{
+
+   margin-top: 250px;
+    background-color: #C0DBEA;
+  }
+
+  .csslogo{
+    height :60px;
+    width: 60px;
+  }
+  .a{
+    float: right;
+    text-decoration: none;
+    
+    width:50px;
+    padding:15px; 
+  }
+  .imgcss{
+    width: 150px;
+  }
